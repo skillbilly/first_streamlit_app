@@ -8,3 +8,6 @@ streamlit.text('Corned Beef Hash')
 streamlit.text('Chorizo Breakfast burrito')
 
 
+streamlit.header('🍌🥭 Build Your Own Fruit Smoothie 🥝🍇')
+
+
